@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateMachine", "StateMachine\StateMachine.csproj", "{580CE973-A32E-4C89-8AC8-3F6113EAC717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateMachineTest", "StateMachineTest\StateMachineTest.csproj", "{9DA86962-821F-44FE-A2B4-7E4CE84BEEE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{580CE973-A32E-4C89-8AC8-3F6113EAC717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580CE973-A32E-4C89-8AC8-3F6113EAC717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580CE973-A32E-4C89-8AC8-3F6113EAC717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580CE973-A32E-4C89-8AC8-3F6113EAC717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DA86962-821F-44FE-A2B4-7E4CE84BEEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA86962-821F-44FE-A2B4-7E4CE84BEEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA86962-821F-44FE-A2B4-7E4CE84BEEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA86962-821F-44FE-A2B4-7E4CE84BEEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
